@@ -1,2 +1,2 @@
-UPDATE table characters SET characters.species = 'Martian'
-WHERE characters.name = 'Eddard Stark';
+UPDATE characters SET species = 'Martian'
+WHERE characters.id = 8;
